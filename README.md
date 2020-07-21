@@ -7,4 +7,7 @@ Link for first keras tutorial:
 
 https://www.freecodecamp.org/news/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159/
 
+Link for AutoML softwares for initial trials:
+https://jonathankrauss.github.io/AutoML-Benchmark/
+
 
